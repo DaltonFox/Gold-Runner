@@ -1,0 +1,23 @@
+mapWidth=27
+mapHeight=18
+tileWidth=32
+tileHeight=32
+tileMap=
+None,None,None,None,None,None,None,None,None,enemy spawn,None,escapeLadder,None,None,None,escapeLadder,None,enemy spawn,None,None,None,None,None,None,None,None,None
+None,enemy spawn,None,brick_back,None,enemy spawn,None,None,None,None,None,escapeLadder,None,None,None,escapeLadder,None,None,None,None,None,enemy spawn,None,brick_back,None,enemy spawn,None
+None,None,mossybrick_back,metalbars,brick_back,None,None,None,None,ladder,crackedbrick.100,escapeLadder,brick_back,None,crackedbrick_back,escapeLadder,mossybrick.100,ladder,None,None,None,None,brick_back,metalbars,mossybrick_back,None,None
+None,None,mossybrick_back,enemy spawn,brick_back,None,None,None,None,ladder,brick.100,escapeLadder,brick_back,metalbars,crackedbrick_back,escapeLadder,mossybrick.100,ladder,None,None,None,None,brick_back,enemy spawn,brick_back,None,None
+ladder,mossybrick.100,mossybrick.100,brick.100,brick.100,crackedbrick.100,ladder,beam,beam,ladder,mossybrick.100,escapeLadder,brick_back,None,crackedbrick_back,escapeLadder,brick.100,ladder,beam,beam,ladder,mossybrick.100,mossybrick.100,brick.100,brick.100,brick.100,ladder
+ladder,mossybrick.100,mossybrick_back,None,bookshelf,brick.100,ladder,None,None,metalbars,mossybrick.100,escapeLadder,brick_back,metalbars,brick_back,escapeLadder,brick.100,None,None,None,ladder,brick.100,mossybrick_back,metalbars,brick_back,brick.100,ladder
+ladder,mossybrick.100,torch,gold,bookshelf,brick.100,ladder,None,None,metalbars,brick.100,escapeLadder,brick_back,metalbars,brick_back,escapeLadder,brick.100,None,None,None,ladder,brick.100,None,gold,torch,brick.100,ladder
+ladder,brick.100,brick.100,brick.100,brick.100,brick.100,ladder,None,None,None,brick.100,escapeLadder,None,metalbars,None,escapeLadder,brick.100,metalbars,None,None,ladder,brick.100,brick.100,brick.100,brick.100,brick.100,ladder
+ladder,crackedbrick.100,brick_back,brick_back,brick_back,brick.100,ladder,None,None,None,brick.100,escapeLadder,bookshelf,None,None,escapeLadder,brick.100,metalbars,None,None,ladder,brick.100,brick_back,brick_back,crackedbrick_back,crackedbrick.100,ladder
+ladder,crackedbrick.100,crackedbrick_back,None,brick_back,brick.100,ladder,None,None,None,brick.100,escapeLadder,bookshelf,gold,None,escapeLadder,brick.100,None,None,None,ladder,brick.100,brick_back,metalbars,crackedbrick_back,crackedbrick.100,ladder
+ladder,brick.100,metalbars,None,metalbars,crackedbrick.100,ladder,beam,beam,beam,brick.100,ladder,brick.100,brick.100,brick.100,ladder,brick.100,beam,beam,beam,ladder,brick.100,None,None,metalbars,crackedbrick.100,ladder
+ladder,brick.100,None,None,None,crackedbrick.100,None,None,None,ladder,brick.100,ladder,None,None,None,ladder,brick.100,ladder,None,None,None,brick.100,None,None,None,brick.100,ladder
+ladder,brick.100,enemy spawn,gold,torch,brick.100,None,None,None,ladder,brick.100,ladder,torch,gold,enemy spawn,ladder,brick.100,ladder,None,None,None,brick.100,torch,gold,enemy spawn,brick.100,ladder
+ladder,brick.100,brick.100,trapStoneBrick,brick.100,brick.100,None,None,None,ladder,brick.100,brick.100,brick.100,brick.100,brick.100,brick.100,brick.100,ladder,None,None,None,brick.100,brick.100,trapStoneBrick,brick.100,brick.100,ladder
+ladder,None,brick_back,brick_back,brick_back,metalbars,trapStoneBrick,None,None,ladder,brick_back,brick_back,None,None,None,brick_back,brick_back,ladder,None,None,trapStoneBrick,None,brick_back,brick_back,crackedbrick_back,metalbars,ladder
+ladder,None,brick_back,brick_back,brick_back,metalbars,None,trapStoneBrick,None,ladder,brick_back,brick_back,None,player spawn,None,brick_back,brick_back,ladder,None,trapStoneBrick,None,None,brick_back,brick_back,crackedbrick_back,metalbars,ladder
+grass.100,brick.100,brick.100,brick.100,brick.100,brick.100,grass.100,grass.100,grass.100,grass.100,brick.100,brick.100,grass.100,grass.100,grass.100,brick.100,brick.100,grass.100,grass.100,grass.100,grass.100,mossybrick.100,brick.100,crackedbrick.100,crackedbrick.100,brick.100,grass.100
+stone_back,stone_back,stone_back,stone_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,stone_back,stone_back,stone_back,stone_back,stone_back,gravel_back,gravel_back,gravel_back,gravel_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back

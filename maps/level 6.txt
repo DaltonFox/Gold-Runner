@@ -1,0 +1,23 @@
+mapWidth=27
+mapHeight=18
+tileWidth=32
+tileHeight=32
+tileMap=
+None,None,None,None,None,None,None,None,None,None,None,gold,stone_back,stone_back,stone_back,None,None,None,None,None,None,None,None,None,None,escapeLadder,None
+None,enemy spawn,None,None,enemy spawn,None,None,enemy spawn,None,ladder,dirt.100,dirt.100,stone.100,stone.100,stone.100,dirt.100,torch,gold,None,None,stone_back,enemy spawn,None,None,enemy spawn,escapeLadder,None
+None,torch,None,None,None,gold,stone_back,stone_back,stone_back,ladder,torch,stone_back,stone_back,stone_back,web,dirt.100,stone.100,stone.100,stone.100,dirt.100,stone_back,None,None,None,None,escapeLadder,None
+dirt.100,dirt.100,dirt.100,dirt.100,stone.100,stone.100,stone.100,dirt.100,dirt.100,stone.100,stone.100,ladder,stone_back,gravel_back,gravel_back,gravel_back,gravel_back,stone_back,stone_back,stone_back,stone_back,None,torch,None,None,escapeLadder,None
+web,None,stone_back,iron,stone_back,stone_back,stone_back,stone_back,coal,coal,coal,ladder,stone.100,stone.100,stone.100,stone.100,stone.100,ladder,dirt.100,dirt.100,dirt.100,dirt.100,dirt.100,ladder,dirt.100,dirt.100,None
+None,enemy spawn,None,iron,iron,None,None,torch,None,coal,coal,ladder,stone_back,stone_back,web,web,stone_back,ladder,None,None,None,None,None,ladder,None,None,None
+dirt.100,dirt.100,dirt.100,stone.100,stone.100,stone.100,stone.100,stone.100,dirt.100,stone.100,stone.100,ladder,stone_back,dirt_back,torch,dirt_back,stone_back,ladder,None,enemy spawn,None,None,None,ladder,torch,None,gold
+dirt.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,dirt.100,dirt.100,ladder,dirt.100,dirt.100,dirt.100,dirt.100,dirt.100,dirt.100,nodigGold,nodigGold,None,None,None,ladder,dirt.100,dirt.100,dirt.100
+dirt.100,stone.100,stone.100,dirt.100,dirt.100,stone.100,stone.100,dirt.100,dirt.100,stone.100,dirt.100,ladder,stone_back,dirt_back,dirt_back,None,None,dirt_back,dirt_back,dirt_back,stone_back,None,None,ladder,dirt_back,dirt_back,dirt_back
+stone.100,stone.100,stone.100,dirt.100,dirt.100,dirt.100,stone.100,stone.100,dirt.100,stone.100,stone.100,ladder,stone_back,stone_back,dirt_back,None,None,dirt_back,gold,torch,beam,beam,beam,ladder,None,dirt_back,dirt_back
+stone.100,stone.100,stone.100,stone.100,dirt.100,dirt.100,dirt.100,stone.100,dirt.100,dirt.100,stone.100,ladder,dirt_back,dirt_back,iron,iron,None,dirt_back,grass.100,dirt.100,None,None,None,ladder,stone_back,dirt_back,dirt_back
+stone.100,stone.100,goldore,dirt_back,None,None,None,stone_back,web,dirt.100,stone.100,ladder,None,dirt_back,iron,iron,gravel_back,gravel_back,stone_back,stone_back,dirt_back,None,None,ladder,stone_back,None,dirt_back
+stone.100,stone.100,dirt_back,None,None,gold,torch,web,web,dirt.100,stone.100,ladder,None,dirt_back,iron,None,gravel_back,gravel_back,dirt_back,dirt_back,dirt_back,dirt_back,None,ladder,stone_back,None,dirt_back
+stone.100,stone.100,dirt.100,dirt.100,grass.100,grass.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,ladder,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,ladder,enemy spawn,dirt_back,dirt_back,ladder,stone_back,None,dirt_back
+gravel_back,dirt_back,dirt_back,None,None,None,stone_back,stone_back,None,None,None,None,ladder,None,None,gravel_back,gravel_back,gravel_back,stone.100,stone.100,dirt.100,dirt.100,dirt.100,dirt.100,stone.100,stone.100,ladder
+gravel_back,mushroom,None,None,mushroom,None,None,None,None,player spawn,None,torch,ladder,None,None,gravel_back,gravel_back,gravel_back,stone_back,stone_back,mushroom,mushroom,None,mushroom,iron,iron,ladder
+stone.100,dirt.100,dirt.100,dirt.100,dirt.100,dirt.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,dirt.100,dirt.100,dirt.100,dirt.100,dirt.100,dirt.100,stone.100,stone.100,stone.100
+gravel_back,gravel_back,dirt_back,dirt_back,dirt_back,stone_back,stone_back,stone_back,stone_back,stone_back,dirt_back,dirt_back,dirt_back,dirt_back,stone_back,gravel_back,gravel_back,gravel_back,stone_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,iron,iron

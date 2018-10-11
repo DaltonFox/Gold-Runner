@@ -1,0 +1,23 @@
+mapWidth=27
+mapHeight=18
+tileWidth=32
+tileHeight=32
+tileMap=
+netherack_back,glowstone,glowstone,enemy spawn,None,None,enemy spawn,None,None,None,None,enemy spawn,glowstone,glowstone,glowstone,glowstone,None,enemy spawn,None,glowstone,glowstone,glowstone,None,enemy spawn,escapeLadder,None,None
+glowstone,glowstone,None,gold,gravel_back,gravel_back,None,None,None,None,None,None,None,mushroom,None,None,None,None,player spawn,None,glowstone,None,None,None,None,escapeLadder,None
+glowstone,None,None,trapNether,netherack.100,netherack.100,netherack.100,ladder,ladder,netherack.100,netherack.100,netherack.100,netherack.100,netherack.100,netherack.100,ladder,ladder,ladder,ladder,None,None,None,None,None,None,None,escapeLadder
+None,None,None,None,None,None,None,None,ladder,None,netherack_back,netherack_back,netherack.100,netherack.100,netherack.100,ladder,None,None,None,None,None,None,None,None,None,escapeLadder,None
+None,None,None,None,None,None,None,None,None,ladder,None,ladder,netherack.100,netherack.100,netherack_back,ladder,None,None,None,None,None,None,None,None,escapeLadder,None,netherack_back
+None,None,None,None,soulsand.100,None,None,None,None,None,ladder,ladder,netherack.100,netherack_back,netherack_back,ladder,None,None,None,None,None,None,None,escapeLadder,None,None,netherack_back
+None,None,None,soulsand.100,netherack.100,netherack.100,None,None,None,None,None,ladder,netherack.100,netherack_back,netherack_back,ladder,None,None,None,None,None,None,escapeLadder,None,None,glowstone,netherack_back
+mushroom,None,soulsand.100,soulsand.100,netherack.100,netherack.100,netherack.100,gold,None,None,None,ladder,netherack.100,netherack_back,netherack_back,ladder,None,None,None,None,None,escapeLadder,None,None,None,glowstone,glowstone
+netherack.100,netherack.100,netherack.100,netherack.100,netherack.100,netherack.100,netherack.100,netherack.100,None,None,None,ladder,netherack.100,netherack_back,netherack_back,ladder,None,None,None,None,None,None,escapeLadder,None,None,glowstone,glowstone
+None,gold,netherack.100,netherack.100,netherack.100,netherack.100,netherack.100,None,None,None,None,ladder,netherack.100,netherack_back,netherack_back,ladder,None,None,None,None,None,None,None,escapeLadder,None,None,glowstone
+None,None,None,netherack.100,netherack.100,netherack.100,None,None,None,None,None,ladder,netherack.100,netherack_back,netherack_back,ladder,None,None,None,None,None,None,None,None,escapeLadder,None,None
+None,None,None,netherack_back,netherack.100,None,None,None,None,None,None,ladder,netherack.100,netherack_back,netherack_back,ladder,None,None,None,None,None,None,None,None,None,escapeLadder,None
+None,None,None,netherack_back,netherack_back,None,enemy spawn,shrooms,shrooms,None,None,ladder,netherack.100,gravel_back,gravel_back,ladder,None,None,enemy spawn,shrooms,None,shrooms,None,None,None,None,escapeLadder
+None,ladder,gravel.100,gravel.100,gravel.100,gravel.100,soulsand.100,soulsand.100,soulsand.100,soulsand.100,netherack.100,netherack.100,netherack.100,netherack.100,netherack.100,trapNether,soulsand.100,soulsand.100,soulsand.100,soulsand.100,soulsand.100,soulsand.100,soulsand.100,soulsand.100,soulsand.100,None,escapeLadder
+None,gravel.100,gravel.100,netherack.100,netherack.100,netherack.100,netherack.100,netherack.100,netherack.100,netherack.100,netherack.100,netherack.100,netherack.100,netherack.100,netherack.100,netherack_back,None,None,None,None,None,None,None,None,ladder,soulsand.100,escapeLadder
+nodigObsidian,nodigObsidian,nodigObsidian,nodigObsidian,nodigObsidian,nodigObsidian,nodigObsidian,nodigObsidian,nodigObsidian,nodigObsidian,nodigObsidian,nodigObsidian,nodigObsidian,nodigObsidian,netherack.100,netherack_back,shrooms,None,None,gold,None,gold,None,gold,ladder,soulsand.100,soulsand.100
+lava.1,lava.1,lava.1,lava.1,lava.1,lava.1,lava.1,lava.1,lava.1,lava.1,lava.1,lava.1,lava.1,nodigObsidian,nodigObsidian,soulsand.100,soulsand.100,soulsand.100,soulsand.100,soulsand.100,soulsand.100,soulsand.100,soulsand.100,soulsand.100,soulsand.100,soulsand.100,soulsand.100
+netherack_back,netherack_back,lava.1,lava.1,lava.1,lava.1,lava.1,lava.1,netherack_back,netherack_back,netherack_back,netherack_back,netherack_back,netherack_back,gravel_back,gravel_back,gravel_back,gravel_back,gravel_back,gravel_back,gravel_back,netherack_back,netherack_back,netherack_back,netherack_back,netherack_back,netherack_back

@@ -1,0 +1,23 @@
+mapWidth=27
+mapHeight=18
+tileWidth=32
+tileHeight=32
+tileMap=
+enemy spawn,None,None,enemy spawn,None,None,enemy spawn,None,None,enemy spawn,None,None,enemy spawn,None,None,enemy spawn,None,None,enemy spawn,None,None,None,None,None,None,None,escapeLadder
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,escapeLadder
+beam,beam,beam,beam,beam,beam,beam,beam,grass_back,grass_back,grass_back,None,gold,None,flowerRed,tall_grass,tall_grass,None,None,None,mushroom,tall_grass,tall_grass,None,None,None,escapeLadder
+ladder,gold,None,None,None,None,None,ladder,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,ladder,grass_back,grass_back,grass_back,grass_back,stone_back,stone_back,stone_back,escapeLadder
+grass.100,grass.100,grass.100,ladder,None,None,None,ladder,None,None,None,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,None,None,ladder,stone.100,nodigCoal,nodigCoal,stone.100,nodigCoal,nodigCoal,nodigMetal,nodigMetal
+web,None,None,ladder,None,None,enemy spawn,ladder,None,None,None,toadstool,None,None,None,None,None,None,ladder,None,None,None,stone_back,stone_back,stone_back,stone_back,stone_back
+None,None,None,ladder,grass.100,grass.100,grass.100,grass.100,grass.100,ladder,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,ladder,grass.100,grass.100,None,None,None,None,None,None,stone_back,stone_back
+torch,gold,None,ladder,None,None,None,None,None,ladder,None,None,None,None,None,None,ladder,dirt_back,dirt_back,beam,beam,None,None,None,None,web,stone_back
+grass.100,grass.100,ladder,grass.100,None,None,None,None,None,ladder,flowerYellow,tall_grass,enemy spawn,None,None,None,ladder,None,None,None,None,beam,beam,beam,None,None,None
+stone_back,stone_back,ladder,None,None,None,None,ladder,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,ladder,grass.100,grass.100,None,None,None,None,None,None,None,beam,beam,gold
+stone_back,None,ladder,beam,beam,beam,beam,ladder,None,None,gold,dirt_back,dirt_back,dirt_back,ladder,dirt_back,None,None,enemy spawn,None,toadstool,None,None,None,None,None,grass.100
+None,None,ladder,None,None,None,None,None,None,ladder,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,gravel.100,gravel.100,gravel.100,grass.100,grass.100,ladder,None,None,None,None,None
+tall_grass,None,ladder,None,None,toadstool,tall_grass,tall_grass,tall_grass,ladder,dirt.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,dirt.100,dirt.100,dirt.100,dirt.100,ladder,torch,tall_grass,tall_grass,None,toadstool
+grass.100,grass.100,grass.100,ladder,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,dirt.100,None,None,mushroom,None,gold,None,None,None,None,dirt.100,grass.100,grass.100,grass.100,grass.100,ladder,grass.100
+stone.100,stone.100,stone.100,ladder,gravel.100,gravel.100,gravel.100,gravel.100,dirt.100,dirt.100,stone.100,None,ladder,dirt.100,stone.100,dirt.100,dirt.100,dirt.100,ladder,None,stone.100,dirt.100,dirt.100,stone.100,stone.100,ladder,stone.100
+stone_back,stone_back,gravel_back,ladder,gravel_back,gravel_back,stone_back,stone_back,stone_back,stone_back,stone_back,player spawn,ladder,stone.100,stone.100,nodigMetal,nodigMetal,stone.100,ladder,None,mushroom,dirt_back,dirt_back,dirt_back,dirt_back,ladder,stone_back
+stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,nodigCoal,nodigCoal,nodigMetal,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,nodigCoal,nodigCoal
+stone_back,stone_back,stone_back,stone_back,stone_back,coal,coal,coal,coal,coal,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,stone_back,stone_back,stone_back,stone_back,gravel_back,gravel_back,gravel_back,goldore,goldore,goldore,gravel_back

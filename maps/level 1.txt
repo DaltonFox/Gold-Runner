@@ -1,0 +1,23 @@
+mapWidth=27
+mapHeight=18
+tileWidth=32
+tileHeight=32
+tileMap=
+None,None,None,enemy spawn,None,None,None,None,None,enemy spawn,None,None,None,None,enemy spawn,None,None,None,None,escapeLadder,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,escapeLadder,None,None,None,None,None,None,None
+tall_grass,tall_grass,None,gold,None,None,None,None,None,tall_grass,tall_grass,flowerYellow,tall_grass,tall_grass,flowerRed,tall_grass,None,None,None,escapeLadder,None,enemy spawn,None,None,None,enemy spawn,None
+grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,ladder,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,None,None,None,escapeLadder,None,None,None,None,None,None,None
+stone_back,stone_back,stone_back,stone_back,stone_back,stone_back,ladder,beam,beam,beam,beam,beam,beam,beam,beam,beam,beam,beam,beam,escapeLadder,None,tall_grass,tall_grass,gold,None,None,flowerYellow
+stone_back,None,None,None,None,None,ladder,None,None,None,None,None,None,grass.100,grass.100,ladder,None,None,None,dirt.100,grass.100,grass.100,grass.100,grass.100,ladder,grass.100,grass.100
+None,None,None,None,None,None,ladder,None,None,None,None,None,None,gravel.100,dirt.100,ladder,None,None,None,None,None,None,None,stone_back,ladder,stone_back,dirt_back
+tall_grass,None,None,None,enemy spawn,None,ladder,None,None,None,None,None,None,gravel.100,gravel.100,ladder,tall_grass,flowerRed,tall_grass,tall_grass,None,gold,enemy spawn,stone_back,ladder,stone_back,stone_back
+grass.100,grass.100,ladder,grass.100,grass.100,grass.100,dirt.100,None,None,None,None,None,None,stone.100,stone.100,dirt.100,grass.100,grass.100,grass.100,grass.100,ladder,grass.100,grass.100,dirt.100,dirt.100,dirt.100,dirt.100
+stone_back,stone_back,ladder,dirt_back,dirt_back,stone_back,stone_back,None,None,None,None,None,None,stone_back,stone_back,stone_back,stone_back,dirt_back,dirt_back,stone_back,ladder,stone_back,stone_back,stone_back,gravel_back,dirt_back,dirt_back
+gravel.100,stone_back,ladder,stone_back,stone_back,stone_back,stone_back,flowerYellow,None,tall_grass,tall_grass,None,None,enemy spawn,None,stone_back,stone_back,stone_back,stone_back,stone_back,ladder,None,None,None,stone_back,stone_back,dirt_back
+grass.100,grass.100,dirt.100,grass.100,grass.100,grass.100,grass.100,grass.100,ladder,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,dirt.100,dirt.100,dirt.100,dirt.100,dirt.100,ladder,None,None,None,None,None,stone_back
+stone_back,stone_back,stone_back,stone_back,None,None,None,None,ladder,None,None,None,None,None,None,None,None,None,None,None,ladder,None,None,None,None,None,None
+stone_back,None,None,None,None,None,gold,None,ladder,beam,beam,beam,beam,beam,beam,beam,beam,beam,beam,beam,ladder,tall_grass,tall_grass,gold,None,flowerYellow,None
+None,None,None,None,ladder,grass.100,grass.100,grass.100,dirt.100,grass.100,None,None,None,None,None,None,None,None,None,None,dirt.100,grass.100,grass.100,grass.100,grass.100,grass.100,ladder
+flowerRed,tall_grass,None,None,ladder,stone_back,stone_back,stone_back,stone_back,stone_back,tall_grass,tall_grass,None,player spawn,None,None,gold,tall_grass,None,None,stone_back,stone_back,stone_back,stone_back,stone_back,stone_back,ladder
+grass.100,grass.100,grass.100,grass.100,dirt.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,grass.100,dirt.100
+dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back,dirt_back

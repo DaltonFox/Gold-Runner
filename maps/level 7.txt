@@ -1,0 +1,23 @@
+mapWidth=27
+mapHeight=18
+tileWidth=32
+tileHeight=32
+tileMap=
+enemy spawn,None,None,None,enemy spawn,None,None,None,None,enemy spawn,None,None,None,None,enemy spawn,None,None,None,enemy spawn,None,None,enemy spawn,None,escapeLadder,stone_back,stone_back,enemy spawn
+gravel_back,gravel_back,iron,iron,gravel_back,gravel_back,gravel_back,None,None,None,torch,gold,None,None,None,None,mushroom,None,None,None,None,None,None,escapeLadder,stone_back,web,None
+ladder,stone.100,nodigMetal,nodigMetal,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,ladder,None,None,None,None,ladder,None,None,None
+ladder,iron,iron,iron,stone_back,stone_back,web,web,web,None,mushroom,goldore,diamond,diamond,stone_back,stone_back,None,None,ladder,beam,beam,beam,beam,ladder,None,torch,gold
+stone.100,stone.100,gravel.100,gravel.100,gravel.100,stone.100,stone.100,stone.100,stone.100,ladder,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,None,None,None,None,ladder,stone.100,stone.100,stone.100
+stone.100,gravel.100,gravel.100,gravel.100,gravel.100,gravel.100,stone.100,stone.100,ladder,ladder,None,None,None,None,None,None,None,None,None,None,None,None,None,ladder,stone_back,stone_back,stone_back
+stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,ladder,ladder,beam,beam,beam,beam,beam,beam,beam,ladder,None,None,torch,None,None,None,ladder,None,stone_back,web
+stone.100,None,gold,web,stone.100,stone.100,ladder,ladder,None,None,None,None,None,None,enemy spawn,None,ladder,goldore,goldore,goldore,None,enemy spawn,None,ladder,None,torch,gold
+stone.100,stone.100,stone.100,stone.100,stone.100,ladder,ladder,None,None,None,None,None,ladder,stone.100,stone.100,stone.100,stone.100,nodigGold,nodigGold,nodigGold,stone.100,stone.100,stone.100,ladder,stone.100,stone.100,stone.100
+diamond,coal,coal,stone_back,stone_back,ladder,None,None,None,None,None,None,ladder,web,None,None,None,None,goldore,goldore,None,None,None,ladder,stone_back,iron,iron
+stone_back,coal,coal,stone_back,None,ladder,None,None,None,None,None,None,ladder,beam,beam,beam,beam,beam,beam,beam,beam,beam,beam,ladder,None,iron,stone_back
+stone_back,stone_back,stone_back,stone_back,enemy spawn,ladder,mushroom,None,torch,gold,None,None,ladder,None,None,None,None,None,mushroom,None,None,None,None,ladder,gold,stone_back,stone_back
+ladder,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,ladder,None,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,None,ladder,stone.100,stone.100,stone.100
+ladder,None,web,stone_back,coal,coal,stone_back,None,stone_back,stone_back,stone_back,stone_back,ladder,None,None,coal,coal,gravel_back,gravel_back,gravel_back,stone_back,web,None,ladder,stone_back,stone_back,stone_back
+ladder,None,None,web,coal,stone_back,None,None,stone_back,stone_back,None,stone_back,ladder,None,None,None,iron,iron,gravel_back,gravel_back,stone_back,None,None,ladder,stone_back,stone_back,goldore
+ladder,None,torch,None,stone_back,stone_back,None,torch,None,stone_back,None,None,ladder,None,mushroom,None,player spawn,None,stone_back,stone_back,stone_back,None,torch,ladder,stone_back,stone_back,goldore
+stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100
+bedrock,bedrock,bedrock,lava.1,lava.1,lava.1,lava.1,lava.1,bedrock,bedrock,bedrock,stone_back,stone_back,bedrock,bedrock,bedrock,bedrock,stone_back,diamond,diamond,lava.1,lava.1,lava.1,lava.1,stone_back,bedrock,bedrock

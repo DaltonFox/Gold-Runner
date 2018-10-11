@@ -1,0 +1,23 @@
+mapWidth=27
+mapHeight=18
+tileWidth=32
+tileHeight=32
+tileMap=
+stone_back,stone_back,escapeLadder,stone_back,stone_back,coal,coal,stone_back,dirt_back,dirt_back,dirt_back,stone_back,stone_back,stone_back,stone_back,stone_back,stone_back,stone_back,stone_back,enemy spawn,web,web,enemy spawn,stone_back,stone_back,stone_back,goldore
+gravel_back,stone_back,escapeLadder,None,None,iron,stone_back,web,stone_back,stone_back,dirt_back,stone_back,enemy spawn,None,None,enemy spawn,None,stone_back,stone_back,None,None,None,None,None,None,None,stone_back
+gravel_back,None,escapeLadder,None,enemy spawn,stone_back,stone_back,enemy spawn,None,None,stone_back,stone_back,None,None,None,None,None,None,None,beam,beam,beam,beam,beam,beam,beam,beam
+gravel_back,torch,escapeLadder,mushroom,None,stone_back,stone_back,None,None,None,stone_back,stone_back,mushroom,None,enemy spawn,None,None,None,None,ladder,None,mushroom,mushroom,None,None,None,ladder
+stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,ladder,stone.100,None,None,goldore,stone.100,ladder,stone.100,stone.100,stone_back,None,enemy spawn,ladder,None,stone_back,stone_back,stone_back,gold,torch,ladder
+stone_back,stone_back,stone_back,None,None,None,None,ladder,None,None,None,stone_back,goldore,ladder,None,stone_back,stone_back,stone.100,stone.100,ladder,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100
+stone_back,None,None,enemy spawn,torch,None,None,ladder,None,torch,gold,stone_back,goldore,ladder,None,web,stone_back,stone_back,stone_back,ladder,coal,gravel_back,gravel_back,dirt_back,dirt_back,dirt_back,dirt_back
+stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,ladder,stone.100,stone.100,stone.100,stone_back,stone_back,ladder,None,web,web,stone_back,stone_back,ladder,goldore,coal,gravel_back,gravel_back,dirt_back,dirt_back,dirt_back
+coal,diamond,gravel_back,stone_back,stone_back,web,None,ladder,None,None,None,stone_back,None,ladder,None,None,None,stone_back,stone_back,ladder,stone_back,stone_back,gravel_back,stone_back,dirt_back,dirt_back,stone_back
+coal,coal,stone_back,stone_back,stone_back,None,None,ladder,None,None,gold,stone_back,None,ladder,None,None,None,None,stone_back,ladder,stone_back,stone_back,stone_back,stone_back,stone_back,stone_back,stone_back
+stone.100,stone.100,stone.100,ladder,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,ladder,None,None,None,None,ladder,web,stone.100,stone.100,stone.100,stone.100,stone.100,ladder
+stone_back,stone_back,None,ladder,None,None,None,stone_back,stone_back,stone_back,stone_back,iron,iron,stone_back,ladder,None,None,gold,None,ladder,None,stone.100,stone.100,stone.100,stone.100,stone_back,ladder
+stone_back,stone_back,torch,ladder,None,gold,None,None,None,web,stone_back,iron,coal,stone_back,ladder,beam,beam,beam,beam,ladder,None,stone.100,web,gold,stone.100,stone_back,ladder
+stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,ladder,None,None,None,stone_back,coal,stone_back,None,None,None,None,None,ladder,None,stone.100,stone.100,stone.100,stone.100,stone.100,ladder
+goldore,dirt_back,dirt_back,dirt_back,stone_back,stone_back,stone_back,ladder,None,None,None,stone_back,coal,stone_back,None,None,None,None,None,ladder,None,None,stone_back,stone_back,iron,iron,ladder
+goldore,goldore,stone_back,stone_back,stone_back,stone_back,stone_back,ladder,torch,player spawn,None,stone_back,stone_back,stone_back,None,None,torch,None,None,ladder,None,torch,enemy spawn,stone_back,stone_back,stone_back,ladder
+stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100,stone.100
+lava.1,lava.1,lava.1,lava.1,lava.1,dirt_back,dirt_back,dirt_back,dirt_back,diamond,diamond,stone_back,stone_back,stone_back,stone_back,stone_back,stone_back,gravel.100,gravel.100,dirt_back,dirt_back,stone_back,iron,iron,water,water,water
