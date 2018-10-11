@@ -17,4 +17,6 @@ Gold Runner is a clone of the classic game "Load Runner" and was meant to be the
 
 [youtubelink]
 
-- Requires pygame to be installed. Uses arrow keys and the 'z' and 'x' key for controlls.
+- Requires pygame to be installed. Uses arrow keys and the 'z' and 'x' key for controls.
+
+Thank you Nathaniel Craiglow for your work on the original project.
