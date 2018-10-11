@@ -10,10 +10,10 @@ Gold Runner is a clone of the classic game "Load Runner" and was meant to be the
 - Written in Python3.6 and Pygame
 
 # Screenshot Content and Video Post
-![alt text](https://raw.githubusercontent.com/DaltonFox/GoldRunner/master/Resources/Image_start.png)
-![alt text](https://raw.githubusercontent.com/DaltonFox/GoldRunner/master/Resources/Image_cave.png)
-![alt text](https://raw.githubusercontent.com/DaltonFox/GoldRunner/master/Resources/Image_cave2.png)
-![alt text](https://raw.githubusercontent.com/DaltonFox/GoldRunner/master/Resources/Image_castle.png)
+![alt text](https://raw.githubusercontent.com/DaltonFox/GoldRunner/master/GitContent/Image_start.png)
+![alt text](https://raw.githubusercontent.com/DaltonFox/GoldRunner/master/GitContent/Image_cave.png)
+![alt text](https://raw.githubusercontent.com/DaltonFox/GoldRunner/master/GitContent/Image_cave2.png)
+![alt text](https://raw.githubusercontent.com/DaltonFox/GoldRunner/master/GitContent/Image_castle.png)
 
 [youtubelink]
 
