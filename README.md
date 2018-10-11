@@ -8,9 +8,9 @@ Gold Runner is a clone of the classic game "Load Runner" and was meant to be the
 - AI Pathfinding and combat system
 - Written in Python3.6 and Pygame
 
-https://youtu.be/nAeWnMiyRws
+[linkname](https://youtu.be/nAeWnMiyRws)
 
-# Screenshot Content and Video Post
+# Screenshot Content
 ![alt text](https://raw.githubusercontent.com/DaltonFox/GoldRunner/master/GitContent/Image_start.png)
 ![alt text](https://raw.githubusercontent.com/DaltonFox/GoldRunner/master/GitContent/Image_cave.png)
 ![alt text](https://raw.githubusercontent.com/DaltonFox/GoldRunner/master/GitContent/Image_cave2.png)
