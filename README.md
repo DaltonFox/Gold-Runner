@@ -15,7 +15,7 @@ Gold Runner is a clone of the classic game "Load Runner" and was meant to be the
 ![alt text](https://raw.githubusercontent.com/DaltonFox/GoldRunner/master/GitContent/Image_cave2.png)
 ![alt text](https://raw.githubusercontent.com/DaltonFox/GoldRunner/master/GitContent/Image_castle.png)
 
-[youtubelink]
+https://youtu.be/nAeWnMiyRws
 
 - Requires pygame to be installed. Uses arrow keys and the 'z' and 'x' key for controls.
 
