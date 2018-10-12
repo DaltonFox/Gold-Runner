@@ -1,4 +1,4 @@
-# Gold Runner "Load Runner" - Python Game Project 2016
+# Gold Runner "Load Runner" - Class Project 2016
 
 ### Gold Runner is a copy of the classic game "Load Runner" with a minecraft theme
 __Technologies learned include:__ Python, Pygame, Adobe Photoshop, Audacity, Object Oriented Programming
